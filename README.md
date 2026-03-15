@@ -371,8 +371,8 @@ You are trying to insert a record that already exists. Check with `SELECT * FROM
 B.Tech — Computer Science & Information Technology
 Trident Academy of Technology, Bhubaneswar, Odisha
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amritrajsingh114@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Amrit114)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:singhamritraj898@gmail.com)
 
 > *"Built this to actually understand how Java EE works in practice — JSP, Servlets, JDBC, session management, and Oracle BLOB storage all together. Took a while but learned a lot."*
 
